@@ -1,0 +1,12 @@
+{
+  "backgroundColor": {
+    "type": "COLOR",
+    "label": "Background",
+    "default": "#ffffff"
+  },
+  "accentColor": {
+    "type": "COLOR",
+    "label": "Accent",
+    "default": "#1a73e8"
+  }
+}
