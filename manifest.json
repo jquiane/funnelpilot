@@ -1,0 +1,16 @@
+{
+  "dataStudio": {
+    "name": "Scrum Board Dashboard",
+    "company": "Funnel Pilot",
+    "logoUrl": "https://i.imgur.com/YO1X6qP.png",
+    "description": "Counts by Status, burndown & progress for the New-Construction Buyer campaign."
+  },
+  "components": {
+    "viz": "ScrumViz"
+  },
+  "templates": {
+    "viz": "index.js"
+  },
+  "style": "style.json",
+  "hideOnError": true
+}
